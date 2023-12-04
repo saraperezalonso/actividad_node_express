@@ -1,0 +1,10 @@
+.footer {
+    font-family:'Segoe UI';
+    background: linear-gradient(to right, rgba(65, 154, 24, 0.542), rgb(65, 154, 24, 0.742), rgb(65, 154, 24, 0.942));
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}

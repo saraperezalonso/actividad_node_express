@@ -1,0 +1,6 @@
+#columnas{
+    column-count:2;
+    column-gap:20px;
+    column-rule:4px dotted gray;
+    list-style: none;
+ }

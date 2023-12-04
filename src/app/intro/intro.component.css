@@ -1,0 +1,15 @@
+
+.cont-imagen {
+    margin: auto;
+    padding: 20px;
+    position: relative;
+}
+
+.imagen-ppal {
+    display: block;
+    margin: 10px auto;
+    max-width: 55%; 
+    height: auto; 
+    border-radius: 10px; 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); 
+}
